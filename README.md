@@ -2,6 +2,8 @@
 
 Social-Link est un programme Python permettant d’explorer et de comprendre les dynamiques sociales au sein d’un groupe à l’aide de la théorie des graphes.
 
+Projet réalisé par : Adam BAJIC et Lukas BENDIAF dans le cadre du semestre 2 de première année de BUT.
+
 ---
 
 ## Technologies utilisées
