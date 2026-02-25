@@ -114,11 +114,11 @@ Deux types de parcours sont utilisés dans le projet :
 |generate_social_graph|     Adam   | 
 |get_group_color     |    Lukas    |
 |visualize_network   |    Lukas    |
-|visualize_rumor_propagation_realtime |     Adam   |
+|visualize_rumor_propagation_realtime |     Adam / Lukas |
 | menu_friend_recommendations |   Lukas   | 
 | menu_find_cliques  |  Lukas    |
 | menu_rumor_propagation|     Lukas        |
-| analyze_graph      |       Adam      |
+| analyze_graph      |       Adam / Lukas     |
 | interactive_menu       |         Lukas    | 
 
 
