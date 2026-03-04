@@ -121,7 +121,7 @@ Deux types de parcours sont utilisés dans le projet :
 | menu_find_cliques  |  Lukas    |
 | menu_rumor_propagation|     Lukas        |
 | analyze_graph      |       Adam / Lukas     |
-| interactive_menu       |         Lukas    | 
+| interactive_menu       |         Moi lukas    | 
 
 
 ---
